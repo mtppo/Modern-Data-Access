@@ -1,0 +1,2 @@
+Exemplos feitos com base em: 
+http://sd.blackball.lv/library/Modern_Data_Access_with_Entity_Framework_Core_(2018).pdf
